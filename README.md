@@ -6,5 +6,5 @@
 ![Anurag](https://profile-counter.glitch.me/anurag-krmkr/count.svg)
 
 
-
-[![Anurag](https://lanyard.cnrad.dev/api/748175432519647239?idleMessage="")](https://discord.com/users/748175432519647239)
+[![Discord Presence](https://lanyard.cnrad.dev/api/748175432519647239
+                            )](https://discord.com/users/748175432519647239)
