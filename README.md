@@ -21,7 +21,3 @@
     </a>
 </p>
 
-
-# Discord
-
-[![](https://discord.c99.nl/widget/theme-1/748175432519647239.png)](https://discord.gg/flantic)
