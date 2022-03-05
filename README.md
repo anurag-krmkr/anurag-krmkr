@@ -7,4 +7,4 @@
 
 
 
-[![Siris](https://lanyard.cnrad.dev/api/748175432519647239?idleMessage="")](https://discord.com/users/748175432519647239)
+[![Anurag](https://lanyard.cnrad.dev/api/748175432519647239?idleMessage="")](https://discord.com/users/748175432519647239)
