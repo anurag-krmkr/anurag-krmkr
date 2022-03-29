@@ -8,8 +8,6 @@
   ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
   
   ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-  ![Nextcloud](https://img.shields.io/badge/Nextcloud-0484cc?style=flat-square&logo=nextcloud)
-  ![OpenSSL](https://img.shields.io/badge/OpenSSL-black?style=flat-square&logo=openssl)
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
   ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
