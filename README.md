@@ -9,8 +9,8 @@
   
   ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-
   ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-05150C?style=flat-square&logo=bootstrap)
   ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=E34F26)
   ![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=CSS3)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
