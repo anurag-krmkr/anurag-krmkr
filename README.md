@@ -30,6 +30,7 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
+<details>
 <summary>Click for GitHub Stats</summary>
 <p align="center">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anurag-krmkr&count_private=true&show_icons=true&include_all_commits=true">
@@ -39,4 +40,4 @@
 </details>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=anurag-krmkr.anurag-krmkr)
-<details>
+
