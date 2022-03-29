@@ -30,11 +30,6 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=anurag-krmkr&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-krmkr&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=anurag-krmkr.anurag-krmkr)
-<details>
 <summary>Click for GitHub Stats</summary>
 <p align="center">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anurag-krmkr&count_private=true&show_icons=true&include_all_commits=true">
@@ -42,3 +37,6 @@
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-krmkr&hide=TeX&layout=compact"
 </p>
 </details>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=anurag-krmkr.anurag-krmkr)
+<details>
