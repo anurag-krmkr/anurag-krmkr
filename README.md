@@ -10,7 +10,7 @@
   ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
   
-  ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+  ![Linux](https://img.shields.io/badge/HTML5?style=flat-square&logo=linux)
   ![Ansible](https://img.shields.io/badge/Ansible-black?style=flat-square&logo=ansible)
   ![Nextcloud](https://img.shields.io/badge/Nextcloud-0484cc?style=flat-square&logo=nextcloud)
   ![Grafana](https://img.shields.io/badge/Grafana-black?style=flat-square&logo=grafana)
@@ -25,7 +25,7 @@
   ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana)
   ![Icinga2](https://img.shields.io/badge/Icinga2-06062C?style=flat-square&logo=icinga)
 
-  ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
+  ![HTML5](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
   ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
   ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
