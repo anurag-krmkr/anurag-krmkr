@@ -27,7 +27,7 @@
 
   ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
   ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=E34F26)
-  ![CSS3](https://img.shields.io/badge/CSA3-black?style=flat-square&logo=CSS3)
+  ![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=CSS3)
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
   ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
